@@ -1,4 +1,4 @@
-# image-gallery-using-css-grid
+# image gallery using css grid
  
  https://taqinasirr.github.io/image-gallery-using-css-grid
 
